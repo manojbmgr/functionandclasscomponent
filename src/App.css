@@ -1,0 +1,11 @@
+.counterDiv{
+  text-align: center;
+}
+button{
+  width: 75px;
+  margin: 10px;
+  color: white;
+  background: black;
+  cursor: pointer;
+  font-size: 32px;
+}
